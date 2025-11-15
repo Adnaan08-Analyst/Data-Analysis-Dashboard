@@ -17,7 +17,7 @@ To perform end-to-end loan data analysis using Excel, SQL, Power BI, and Tableau
 - How does borrower verification impact total payment received?
 - Which borrower segments show the strongest repayment behavior?
 
-- Dashboard interaction <a href="https://github.com/Adnaan08-Analyst/Data-Analysis-Dashboard/blob/main/Bank%20analytics%20dashboard.png">View Dashboard</a>
+- Dashboard KPI<a href="https://github.com/Adnaan08-Analyst/Data-Analysis-Dashboard/blob/main/Bank%20analytics%20dashboard.png">View Dashboard</a>
 
 ## Prcosess 
 - Data Collection – Imported Finance_1 and Finance_2 loan datasets for analysis.
@@ -29,3 +29,5 @@ To perform end-to-end loan data analysis using Excel, SQL, Power BI, and Tableau
 - SQL Querying – Executed queries for filtering, grouping, and validating insights.
 - Visualization & Insights – Highlighted patterns in loan growth, verification, home ownership, and repayment behavior.
 - Conclusion & Documentation – Summarized insights and documented the complete end-to-end workflow.
+
+  - Dashboard <a href="https://github.com/Adnaan08-Analyst/Data-Analysis-Dashboard/blob/main/Dahboard%20of%20bank%20analytics.png">View Dashboard</a>
