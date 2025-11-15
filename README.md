@@ -30,4 +30,6 @@ To perform end-to-end loan data analysis using Excel, SQL, Power BI, and Tableau
 - Visualization & Insights – Highlighted patterns in loan growth, verification, home ownership, and repayment behavior.
 - Conclusion & Documentation – Summarized insights and documented the complete end-to-end workflow.
 
-  - Dashboard <a href="https://github.com/Adnaan08-Analyst/Data-Analysis-Dashboard/blob/main/Dahboard%20of%20bank%20analytics.png">View Dashboard</a>
+## Dashboard
+<img width="1330" height="667" alt="Dahboard of bank analytics" src="https://github.com/user-attachments/assets/ae56d3a0-2d53-4a85-af7e-8e0a068b90e4" />
+
